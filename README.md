@@ -3,7 +3,7 @@ This is first page
 
 <img src="assets/screenshots/show_one.png" width="300" height="580">
 
-This page is using Bounce Physics, so you can s scroll smoothly
+This page is using Bounce Physics, so you can scroll smoothly
 
 <img src="assets/screenshots/show_two.png" width="300" height="580">
 
